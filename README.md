@@ -34,4 +34,5 @@ If you need to make modifications to your API Gateway API, modify `simple-proxy-
 ## Node.js version
 
 This example was written against Node.js version 8.10
+
 Reference: https://github.com/awslabs/aws-serverless-express.git
