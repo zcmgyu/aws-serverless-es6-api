@@ -33,4 +33,4 @@ If you need to make modifications to your API Gateway API, modify `simple-proxy-
 
 ## Node.js version
 
-This example was written against Node.js version 6.10
+This example was written against Node.js version 8.10
